@@ -240,7 +240,7 @@
   {
     "id": "25",
     "questionJson": "Solve for x in the equation:",
-    "equationJson": "\\( \frac{ \sqrt[3]{x} }{ \frac{x^2}{4} }\cdot{sqrt[3]{x}} = \frac{ 1 }{ x } \\)",
+    "equationJson": "\\( \\frac{ \\sqrt[3]{x} }{ \\frac{x^2}{4} }\\cdot{sqrt[3]{x}} = \frac{ 1 }{ x } \\)",
     "answerJson": [
       "64"
     ],
