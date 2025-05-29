@@ -151,7 +151,7 @@
     "difficultyJson": 2
   },
   {
-    "id": "n",
+    "id": "16",
     "questionJson": "Simplify the expression.",
     "equationJson": "\\( \\frac{\\sqrt[3]{x^4} \\cdot x^{1/2}}{x^{5/6}} \\)",
     "answerJson": ["x"],
@@ -248,7 +248,7 @@
     "difficultyJson": 2
   },
   {
-    "id": "n",
+    "id": "26",
     "questionJson": "Simplify the expression.",
     "equationJson": "\\( \\frac{2x^{-1}}{4x} \\)",
     "answerJson": ["1/2x^-2", "1/2x^(-2)", "(1/2)x^-2", "(1/2)x^(-2)"],
