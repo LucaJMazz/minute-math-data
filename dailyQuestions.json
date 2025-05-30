@@ -245,13 +245,14 @@
       "64"
     ],
     "inputIncludeJson": "x = ",
-    "difficultyJson": 2
+    "difficultyJson": 3
   },
   {
     "id": "26",
     "questionJson": "Simplify the expression.",
     "equationJson": "\\( \\frac{2x^{-1}}{4x} \\)",
-    "answerJson": ["1/2x^-2", "1/2x^(-2)", "(1/2)x^-2", "(1/2)x^(-2)"],
+    "answerJson": ["1/2x^-2", "1/2x^(-2)", "(1/2)x^-2", "(1/2)x^(-2)",
+                   "1/2*x^-2", "1/2*x^(-2)", "(1/2)*x^-2", "(1/2)*x^(-2)"],
     "inputIncludeJson": "x = ",
     "difficultyJson": 1
   },
